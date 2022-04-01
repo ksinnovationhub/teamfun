@@ -80,6 +80,19 @@ This code contains the landing page of the platform where information on how to 
 <img src="https://github.com/Alphadude/teamfun/blob/main/resources/homemiddle.png" width="80%" alt="Screen2" hspace="15">
 
 
+### Found a bug? 🐛
+If you found a bug, you can report it by creating an issue [here](https://github.com/ksinnovationhub/teamfun/issues). Endeavour to follow the guidelines for reporting a bug.
+
+### Want a new feature? 🆕
+If you want to request for a new feature, you can create an issue [here](https://github.com/ksinnovationhub/teamfun/issues). Endeavour to follow the guidelines for requesting a new feature.
+
+### Want to contribute to this project? 🤓
+If you want to contribute to this project, kindly go through the [contribution guideline](https://github.com/ksinnovationhub/teamfun/blob/open_source_guideline/CONTRIBUTING.md) for a step-by-step instruction on how to contribute to this project.
+
+### Project Maintainer 👷‍♂️
+* [Ayaosi Godfrey](https://github.com/alphadude)
+
+
 
 
 
