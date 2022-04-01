@@ -64,15 +64,19 @@ This code contains the landing page of the platform where information on how to 
   
 </ul>
 
+## Screenshots for the Admin website
+
+<img src="https://github.com/Alphadude/teamfun/blob/main/assets/adminsignup.png" width="80%" alt="Screen2" hspace="15">
+
+<img src="https://github.com/Alphadude/teamfun/blob/main/assets/adminlogin.png" width="80%" alt="Screen2" hspace="15">
+
+<img src="https://github.com/Alphadude/teamfun/blob/main/assets/admindashboard.png" width="80%" alt="Screen2" hspace="15">
+
+<img src="https://github.com/Alphadude/teamfun/blob/main/assets/adminnewelection.png" width="80%" alt="Screen2" hspace="15">
+
 ## Screenshots for the website
 
-<img src="https://github.com/Alphadude/teamfun/blob/main/images/landingpage.png" width="80%" alt="Screen2" hspace="15">
-
-<img src="https://github.com/Alphadude/teamfun/blob/main/images/result1.jpeg" width="80%" alt="Screen2" hspace="15">
-
-## Screenshots for the website
-
-<img src="https://github.com/Alphadude/teamfun/blob/main/resources/homemtop.png" width="80%" alt="Screen2" hspace="15">
+<img src="https://github.com/Alphadude/teamfun/blob/main/images/landingpage.png" width="80%" alt="Screen2"  hspace="15">
 <img src="https://github.com/Alphadude/teamfun/blob/main/resources/homemiddle.png" width="80%" alt="Screen2" hspace="15">
 
 
