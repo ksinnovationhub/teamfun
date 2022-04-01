@@ -1,0 +1,136 @@
+#free-tools #hero {
+  padding: 170px 0 80px 0;
+  margin-bottom: 80px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right -64px bottom -64px;
+  background-image: url("/assets/free-tools-hero.png"); }
+  @media (max-width: 599px) {
+    #free-tools #hero {
+      background-size: 150%;
+      background-position: center bottom;
+      padding-top: 80px;
+      padding-bottom: 350px; } }
+  #free-tools #hero .container {
+    padding-left: 120px; }
+  #free-tools #hero header small {
+    display: block;
+    font-size: 16px;
+    line-height: 100%;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+    margin-bottom: 40px;
+    color: #344563;
+    font-weight: 700;
+    font-style: normal; }
+  #free-tools #hero header h1,
+  #free-tools #hero header h2 {
+    max-width: 620px;
+    font-size: 65px;
+    line-height: 64px;
+    letter-spacing: -0.01em;
+    font-weight: 900;
+    margin-bottom: 40px; }
+    #free-tools #hero header h1 em,
+    #free-tools #hero header h2 em {
+      font-style: normal;
+      color: #ff6726; }
+  #free-tools #hero header p {
+    max-width: 500px;
+    font-size: 18px;
+    line-height: 150%;
+    margin-bottom: 40px; }
+  @media (max-width: 599px) {
+    #free-tools #hero header {
+      width: 100%; }
+      #free-tools #hero header h1,
+      #free-tools #hero header h2 {
+        font-size: 43px;
+        line-height: 43px;
+        margin-bottom: 20px; }
+      #free-tools #hero header p {
+        font-size: 16px;
+        line-height: 23px; } }
+  #free-tools #hero footer a.hero-button {
+    margin-bottom: 16px; }
+  #free-tools #hero footer small {
+    display: block;
+    font-size: 16px;
+    color: #344563; }
+  @media (max-width: 599px) {
+    #free-tools #hero footer small {
+      font-size: 12px;
+      line-height: 28px; } }
+  @media (max-width: 768px) {
+    #free-tools #hero {
+      background-image: none; }
+      #free-tools #hero .container {
+        padding: 0 40px; } }
+  @media (max-width: 599px) {
+    #free-tools #hero footer a.hero-button {
+      width: 80%; } }
+
+@media (min-width: 992px) {
+  #free-tools .text-blocks .module {
+    padding-bottom: 90px; }
+    #free-tools .text-blocks .module.text-block-right .module-text {
+      padding: 0 160px 0 0; }
+    #free-tools .text-blocks .module.text-block-left .module-text {
+      padding: 0 0 0 160px; } }
+
+#free-tools a.outlink {
+  font-weight: 800; }
+
+#free-tools #free-tools-intro {
+  padding: 80px 0; }
+  #free-tools #free-tools-intro .module {
+    display: flex; }
+    #free-tools #free-tools-intro .module article {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      padding: 60px 40px;
+      border-radius: 10px;
+      margin: 0 10px; }
+      #free-tools #free-tools-intro .module article img {
+        max-width: 120px; }
+      #free-tools #free-tools-intro .module article h3 {
+        font-weight: bold;
+        font-size: 22px;
+        line-height: 27px;
+        margin: 40px 0 15px 0; }
+      #free-tools #free-tools-intro .module article p {
+        font-size: 18px;
+        line-height: 130%;
+        color: #212e44; }
+      #free-tools #free-tools-intro .module article a.button {
+        align-self: flex-start;
+        margin-top: auto;
+        margin-left: 0; }
+      #free-tools #free-tools-intro .module article.adsreport {
+        background: #f3fffe; }
+        #free-tools #free-tools-intro .module article.adsreport a.button {
+          background: #2fd9c4; }
+      #free-tools #free-tools-intro .module article.easy {
+        background: #f6f5ff; }
+        #free-tools #free-tools-intro .module article.easy a {
+          background: #7a66f0; }
+      #free-tools #free-tools-intro .module article.facebook {
+        background: #fff8ff; }
+        #free-tools #free-tools-intro .module article.facebook a {
+          background: #fb89bf; }
+      #free-tools #free-tools-intro .module article.twitter {
+        background: rgba(255, 239, 204, 0.2); }
+        #free-tools #free-tools-intro .module article.twitter a {
+          color: #212e44;
+          background: #ffda7d; }
+    @media (max-width: 768px) {
+      #free-tools #free-tools-intro .module {
+        flex-direction: column; }
+        #free-tools #free-tools-intro .module article {
+          margin-bottom: 40px; }
+          #free-tools #free-tools-intro .module article.twitter h3 br {
+            display: none; } }
+
+
+/*# sourceMappingURL=free_tools.css.map*/

@@ -1,0 +1,267 @@
+#customers #hero {
+  padding: 170px 0 80px 0;
+  margin-bottom: 80px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right -64px bottom -64px;
+  position: relative;
+  text-align: center;
+  padding: 170px 0 128px 0; }
+  @media (max-width: 599px) {
+    #customers #hero {
+      background-size: 150%;
+      background-position: center bottom;
+      padding-top: 80px;
+      padding-bottom: 350px; } }
+  #customers #hero .container {
+    padding-left: 120px; }
+  #customers #hero header small {
+    display: block;
+    font-size: 16px;
+    line-height: 100%;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+    margin-bottom: 40px;
+    color: #344563;
+    font-weight: 700;
+    font-style: normal; }
+  #customers #hero header h1,
+  #customers #hero header h2 {
+    max-width: 620px;
+    font-size: 65px;
+    line-height: 64px;
+    letter-spacing: -0.01em;
+    font-weight: 900;
+    margin-bottom: 40px; }
+    #customers #hero header h1 em,
+    #customers #hero header h2 em {
+      font-style: normal;
+      color: #ff6726; }
+  #customers #hero header p {
+    max-width: 395px;
+    font-size: 18px;
+    line-height: 150%;
+    margin-bottom: 40px; }
+  @media (max-width: 599px) {
+    #customers #hero header {
+      width: 100%; }
+      #customers #hero header h1,
+      #customers #hero header h2 {
+        font-size: 43px;
+        line-height: 43px;
+        margin-bottom: 20px; }
+      #customers #hero header p {
+        font-size: 16px;
+        line-height: 23px; } }
+  #customers #hero footer a.hero-button {
+    margin-bottom: 16px; }
+  #customers #hero footer small {
+    display: block;
+    font-size: 16px;
+    color: #344563; }
+  @media (max-width: 599px) {
+    #customers #hero footer small {
+      font-size: 12px;
+      line-height: 28px; } }
+  @media (max-width: 768px) {
+    #customers #hero .container {
+      padding: 0 40px; } }
+  @media (max-width: 599px) {
+    #customers #hero footer a.hero-button {
+      width: 80%; } }
+  #customers #hero header h1,
+  #customers #hero header p {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 600px; }
+  #customers #hero #top-accent {
+    position: absolute;
+    top: 0;
+    left: 70%; }
+  #customers #hero #bottom-accent {
+    position: absolute;
+    bottom: -150px;
+    left: 20%;
+    height: 286px;
+    width: 311px; }
+
+@media (max-width: 768px) {
+  #customers #hero {
+    padding: 80px 0; }
+    #customers #hero header h2,
+    #customers #hero header p {
+      max-width: none;
+      padding-left: 40px;
+      padding-right: 40px; }
+    #customers #hero #top-accent,
+    #customers #hero #bottom-accent {
+      display: none; } }
+
+#customers .quote-card {
+  padding: 120px 0 80px 0; }
+  #customers .quote-card blockquote {
+    background: rgba(255, 239, 204, 0.2);
+    border-radius: 20px;
+    text-align: center;
+    padding: 0 120px; }
+    #customers .quote-card blockquote img {
+      margin-top: -72px;
+      margin-bottom: 40px;
+      max-width: 146px; }
+    #customers .quote-card blockquote p {
+      margin: 0 auto;
+      font-weight: bold;
+      font-size: 30px;
+      line-height: 40px;
+      letter-spacing: -0.04em;
+      color: #212e44; }
+      #customers .quote-card blockquote p:after, #customers .quote-card blockquote p:before {
+        content: '"'; }
+    #customers .quote-card blockquote footer {
+      padding: 20px 0 40px 0; }
+      #customers .quote-card blockquote footer p {
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 27px; }
+        #customers .quote-card blockquote footer p:after, #customers .quote-card blockquote footer p:before {
+          content: none; }
+        #customers .quote-card blockquote footer p:before {
+          content: "\2014\00A0"; }
+  @media (max-width: 599px) {
+    #customers .quote-card blockquote {
+      padding: 0 40px; }
+      #customers .quote-card blockquote p {
+        font-size: 20px;
+        line-height: 32px; } }
+  #customers .quote-card.secondary blockquote {
+    background: #f6f5ff; }
+  #customers .quote-card.no-image blockquote {
+    padding-top: 40px; }
+  #customers .quote-card.secondary blockquote footer .button.read-more-button {
+    margin-top: 32px !important;
+    color: #7a66f0;
+    box-shadow: 0px 19px 40px -10px #d1d7fc; }
+    #customers .quote-card.secondary blockquote footer .button.read-more-button:after {
+      background-image: url("data:image/svg+xml,%3Csvg width='22' height='14' viewBox='0 0 22 14' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cline x1='1.25' y1='7.25' x2='17.75' y2='7.25' stroke='%237A66F0' stroke-width='2.5' stroke-linecap='round'/%3E%3Cpath d='M16 1.5L20 7L16 12.5' stroke='%237A66F0' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A"); }
+
+#customers #customer-quotes {
+  padding: 80px 0; }
+  #customers #customer-quotes .module {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -24px;
+    margin-top: -24px; }
+    #customers #customer-quotes .module article {
+      background: white;
+      margin-left: 24px;
+      margin-top: 24px;
+      width: calc(33.33333% - 24px);
+      padding: 40px;
+      border-radius: 10px; }
+      #customers #customer-quotes .module article h4 {
+        font-weight: 800;
+        font-size: 26px;
+        line-height: 30px;
+        letter-spacing: -0.005em; }
+      #customers #customer-quotes .module article p {
+        font-size: 18px;
+        line-height: 140%; }
+      #customers #customer-quotes .module article:nth-child(9n + 1), #customers #customer-quotes .module article:nth-child(9n + 6), #customers #customer-quotes .module article:nth-child(9n + 8) {
+        background: #fff7f3; }
+      #customers #customer-quotes .module article:nth-child(9n + 2), #customers #customer-quotes .module article:nth-child(9n + 4), #customers #customer-quotes .module article:nth-child(9n + 9) {
+        background: #f6f8ff; }
+        #customers #customer-quotes .module article:nth-child(9n + 2) a.read-more-button,
+        #customers #customer-quotes .module article:nth-child(9n + 2) a.video-tutorial-button, #customers #customer-quotes .module article:nth-child(9n + 4) a.read-more-button,
+        #customers #customer-quotes .module article:nth-child(9n + 4) a.video-tutorial-button, #customers #customer-quotes .module article:nth-child(9n + 9) a.read-more-button,
+        #customers #customer-quotes .module article:nth-child(9n + 9) a.video-tutorial-button {
+          color: #7a66f0;
+          box-shadow: 0px 19px 40px -10px #d1d7fc; }
+          #customers #customer-quotes .module article:nth-child(9n + 2) a.read-more-button:after,
+          #customers #customer-quotes .module article:nth-child(9n + 2) a.video-tutorial-button:after, #customers #customer-quotes .module article:nth-child(9n + 4) a.read-more-button:after,
+          #customers #customer-quotes .module article:nth-child(9n + 4) a.video-tutorial-button:after, #customers #customer-quotes .module article:nth-child(9n + 9) a.read-more-button:after,
+          #customers #customer-quotes .module article:nth-child(9n + 9) a.video-tutorial-button:after {
+            background-image: url("data:image/svg+xml,%3Csvg width='22' height='14' viewBox='0 0 22 14' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cline x1='1.25' y1='7.25' x2='17.75' y2='7.25' stroke='%237A66F0' stroke-width='2.5' stroke-linecap='round'/%3E%3Cpath d='M16 1.5L20 7L16 12.5' stroke='%237A66F0' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A"); }
+      #customers #customer-quotes .module article:nth-child(9n + 3), #customers #customer-quotes .module article:nth-child(9n + 5), #customers #customer-quotes .module article:nth-child(9n + 7) {
+        background: #f3fffe; }
+        #customers #customer-quotes .module article:nth-child(9n + 3) a.read-more-button,
+        #customers #customer-quotes .module article:nth-child(9n + 3) a.video-tutorial-button, #customers #customer-quotes .module article:nth-child(9n + 5) a.read-more-button,
+        #customers #customer-quotes .module article:nth-child(9n + 5) a.video-tutorial-button, #customers #customer-quotes .module article:nth-child(9n + 7) a.read-more-button,
+        #customers #customer-quotes .module article:nth-child(9n + 7) a.video-tutorial-button {
+          color: #2fd9c4;
+          box-shadow: 0px 19px 40px -10px #d0fff6; }
+          #customers #customer-quotes .module article:nth-child(9n + 3) a.read-more-button:after,
+          #customers #customer-quotes .module article:nth-child(9n + 3) a.video-tutorial-button:after, #customers #customer-quotes .module article:nth-child(9n + 5) a.read-more-button:after,
+          #customers #customer-quotes .module article:nth-child(9n + 5) a.video-tutorial-button:after, #customers #customer-quotes .module article:nth-child(9n + 7) a.read-more-button:after,
+          #customers #customer-quotes .module article:nth-child(9n + 7) a.video-tutorial-button:after {
+            background-image: url("data:image/svg+xml,%3Csvg width='22' height='14' viewBox='0 0 22 14' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cline x1='1.25' y1='7.25' x2='17.75' y2='7.25' stroke='%232FD9C4' stroke-width='2.5' stroke-linecap='round'/%3E%3Cpath d='M16 1.5L20 7L16 12.5' stroke='%232FD9C4' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A"); }
+      #customers #customer-quotes .module article.mini-quote {
+        margin-bottom: 120px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between; }
+        #customers #customer-quotes .module article.mini-quote img {
+          display: block;
+          margin: -100px auto 32px auto; }
+        #customers #customer-quotes .module article.mini-quote a {
+          margin-bottom: 10px; }
+  #customers #customer-quotes .module article:nth-child(9n + 1), #customers #customer-quotes .module article:nth-child(9n + 6), #customers #customer-quotes .module article:nth-child(9n + 8) {
+    background: #f6f8ff; }
+    #customers #customer-quotes .module article:nth-child(9n + 1) a.read-more-button,
+    #customers #customer-quotes .module article:nth-child(9n + 1) a.video-tutorial-button, #customers #customer-quotes .module article:nth-child(9n + 6) a.read-more-button,
+    #customers #customer-quotes .module article:nth-child(9n + 6) a.video-tutorial-button, #customers #customer-quotes .module article:nth-child(9n + 8) a.read-more-button,
+    #customers #customer-quotes .module article:nth-child(9n + 8) a.video-tutorial-button {
+      color: #7a66f0;
+      box-shadow: 0px 19px 40px -10px #d1d7fc; }
+      #customers #customer-quotes .module article:nth-child(9n + 1) a.read-more-button:after,
+      #customers #customer-quotes .module article:nth-child(9n + 1) a.video-tutorial-button:after, #customers #customer-quotes .module article:nth-child(9n + 6) a.read-more-button:after,
+      #customers #customer-quotes .module article:nth-child(9n + 6) a.video-tutorial-button:after, #customers #customer-quotes .module article:nth-child(9n + 8) a.read-more-button:after,
+      #customers #customer-quotes .module article:nth-child(9n + 8) a.video-tutorial-button:after {
+        background-image: url("data:image/svg+xml,%3Csvg width='22' height='14' viewBox='0 0 22 14' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cline x1='1.25' y1='7.25' x2='17.75' y2='7.25' stroke='%237A66F0' stroke-width='2.5' stroke-linecap='round'/%3E%3Cpath d='M16 1.5L20 7L16 12.5' stroke='%237A66F0' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A"); }
+  #customers #customer-quotes .module article:nth-child(9n + 2), #customers #customer-quotes .module article:nth-child(9n + 4), #customers #customer-quotes .module article:nth-child(9n + 9) {
+    background: #fff7f3; }
+    #customers #customer-quotes .module article:nth-child(9n + 2) a.read-more-button,
+    #customers #customer-quotes .module article:nth-child(9n + 2) a.video-tutorial-button, #customers #customer-quotes .module article:nth-child(9n + 4) a.read-more-button,
+    #customers #customer-quotes .module article:nth-child(9n + 4) a.video-tutorial-button, #customers #customer-quotes .module article:nth-child(9n + 9) a.read-more-button,
+    #customers #customer-quotes .module article:nth-child(9n + 9) a.video-tutorial-button {
+      color: #ff6726;
+      box-shadow: 0px 19px 40px -10px #ffe0d2; }
+      #customers #customer-quotes .module article:nth-child(9n + 2) a.read-more-button:after,
+      #customers #customer-quotes .module article:nth-child(9n + 2) a.video-tutorial-button:after, #customers #customer-quotes .module article:nth-child(9n + 4) a.read-more-button:after,
+      #customers #customer-quotes .module article:nth-child(9n + 4) a.video-tutorial-button:after, #customers #customer-quotes .module article:nth-child(9n + 9) a.read-more-button:after,
+      #customers #customer-quotes .module article:nth-child(9n + 9) a.video-tutorial-button:after {
+        background-image: url("data:image/svg+xml,%3Csvg width='22' height='15' viewBox='0 0 22 15' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cline x1='1.25' y1='7.75' x2='17.75' y2='7.75' stroke='%23FF6726' stroke-width='2.5' stroke-linecap='round'/%3E%3Cpath d='M16 2L20 7.5L16 13' stroke='%23FF6726' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A"); }
+  #customers #customer-quotes .module article:nth-child(9n + 3), #customers #customer-quotes .module article:nth-child(9n + 5), #customers #customer-quotes .module article:nth-child(9n + 7) {
+    background: #f3fffe; }
+    #customers #customer-quotes .module article:nth-child(9n + 3) a.read-more-button,
+    #customers #customer-quotes .module article:nth-child(9n + 3) a.video-tutorial-button, #customers #customer-quotes .module article:nth-child(9n + 5) a.read-more-button,
+    #customers #customer-quotes .module article:nth-child(9n + 5) a.video-tutorial-button, #customers #customer-quotes .module article:nth-child(9n + 7) a.read-more-button,
+    #customers #customer-quotes .module article:nth-child(9n + 7) a.video-tutorial-button {
+      color: #2fd9c4;
+      box-shadow: 0px 19px 40px -10px #d0fff6; }
+      #customers #customer-quotes .module article:nth-child(9n + 3) a.read-more-button:after,
+      #customers #customer-quotes .module article:nth-child(9n + 3) a.video-tutorial-button:after, #customers #customer-quotes .module article:nth-child(9n + 5) a.read-more-button:after,
+      #customers #customer-quotes .module article:nth-child(9n + 5) a.video-tutorial-button:after, #customers #customer-quotes .module article:nth-child(9n + 7) a.read-more-button:after,
+      #customers #customer-quotes .module article:nth-child(9n + 7) a.video-tutorial-button:after {
+        background-image: url("data:image/svg+xml,%3Csvg width='22' height='14' viewBox='0 0 22 14' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cline x1='1.25' y1='7.25' x2='17.75' y2='7.25' stroke='%232FD9C4' stroke-width='2.5' stroke-linecap='round'/%3E%3Cpath d='M16 1.5L20 7L16 12.5' stroke='%232FD9C4' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A"); }
+  #customers #customer-quotes .module article footer .wistia_embed {
+    display: inline-block;
+    margin-top: 16px; }
+    @media (min-width: 1400px) {
+      #customers #customer-quotes .module article footer .wistia_embed {
+        margin-top: 0; } }
+    #customers #customer-quotes .module article footer .wistia_embed .button.watch-video-button {
+      padding: 0 0 0 46px;
+      background: transparent;
+      box-shadow: none; }
+      #customers #customer-quotes .module article footer .wistia_embed .button.watch-video-button:before {
+        bottom: 5px; }
+  @media (max-width: 768px) {
+    #customers #customer-quotes {
+      padding: 40px 0; }
+      #customers #customer-quotes .module {
+        flex-direction: column; }
+        #customers #customer-quotes .module article {
+          width: auto; } }
+
+
+/*# sourceMappingURL=customers.css.map*/
