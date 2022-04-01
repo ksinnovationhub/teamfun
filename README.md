@@ -27,11 +27,17 @@ This code contains the landing page of the platform where information on how to 
 [Home Page middle] (../resources/homemiddle.png)
 
 ## Technologies used
+
+### The web development language
 - HTML
 - CSS
 - JavaScript
 - Vue
+
+### The Mobile development language
 - Flutter (Dart)
+
+### The API development language
 - PhP (Laravel)
 
 
@@ -46,43 +52,30 @@ This code contains the landing page of the platform where information on how to 
 - Click on sign up to create a new election on the website.
 - run the file on your local computer and create a Pull Request"
 
-## Screenshots Mobile
 
-### Screenshots 📸
+### Screenshots Mobile 📸
 <ul>
-  <img src="https://github.com/Alphadude/teamfun/blob/main/images/dashboard.jpeg" width="40%" alt="Screen3" hspace="15">
+  <img src="https://github.com/Alphadude/teamfun/blob/main/images/splash.jpeg" width="40%" alt="Screen3" hspace="15">
   <img src="https://github.com/Alphadude/teamfun/blob/main/images/dashboard.jpeg" width="40%" alt="Screen1" hspace="15">
-  <img src="https://github.com/Alphadude/teamfun/blob/main/images/dashboard.jpeg" width="40%" alt="Screen2" hspace="15">
-  <img src="https://github.com/Alphadude/teamfun/blob/main/images/dashboard.jpeg" alt="Screenshot" width="40%" hspace="15"/>
-  <img src="https://github.com/Alphadude/teamfun/blob/main/images/dashboard.jpeg" width="40%" alt="Screen2" hspace="15">
-  <img src="https://github.com/Alphadude/teamfun/blob/main/images/dashboard.jpeg" width="40%" alt="Screen2" hspace="15">
+  <img src="https://github.com/Alphadude/teamfun/blob/main/images/vote.jpeg" width="40%" alt="Screen2" hspace="15">
+  <img src="https://github.com/Alphadude/teamfun/blob/main/images/vote1.jpeg" alt="Screenshot" width="40%" hspace="15"/>
+  <img src="https://github.com/Alphadude/teamfun/blob/main/images/result.jpeg" width="40%" alt="Screen2" hspace="15">
+  <img src="https://github.com/Alphadude/teamfun/blob/main/images/result1.jpeg" width="40%" alt="Screen2" hspace="15">
+  
 </ul>
-
-![Splash screen] 
-(/images/splash.jpeg)
-
-![Dashboard screen] 
-(/images/dashboard.jpeg)
-
-![Vote screen] 
-(/images/vote.jpeg)
-
-![Vote screen] 
-(/images/vote1.jpeg)
-
-![Result screen] 
-(/images/result.jpeg)
-
-![Result screen] 
-(/images/result1.jpeg)
 
 ## Screenshots for the website
 
-![Landing Page] 
-(/images/landingpage.jpeg)
+<img src="https://github.com/Alphadude/teamfun/blob/main/images/landingpage.jpeg" width="40%" alt="Screen2" hspace="15">
 
-![Result screen] 
-(/images/result1.jpeg)
+<img src="https://github.com/Alphadude/teamfun/blob/main/images/result1.jpeg" width="40%" alt="Screen2" hspace="15">
+
+
+
+<img src="https://github.com/Alphadude/teamfun/blob/main/resources/homemtop.png" width="40%" alt="Screen2" hspace="15">
+<img src="https://github.com/Alphadude/teamfun/blob/main/resources/homemiddle.png" width="40%" alt="Screen2" hspace="15">
+
+
 
 
 
