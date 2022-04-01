@@ -50,12 +50,12 @@ This code contains the landing page of the platform where information on how to 
 
 ### Screenshots 📸
 <ul>
-  <img src="https://github.com/ksinnovationhub/teamfun/images/splash.jpeg" width="40%" alt="Screen3" hspace="15">
-  <img src="https://github.com/ksinnovationhub/teamfun/images/splash.jpeg" width="40%" alt="Screen1" hspace="15">
-  <img src="https://github.com/ksinnovationhub/teamfun/images/splash.jpeg" width="40%" alt="Screen2" hspace="15">
-  <img src="https://github.com/ksinnovationhub/teamfun/images/splash.jpeg" alt="Screenshot" width="40%" hspace="15"/>
-  <img src="https://github.com/ksinnovationhub/teamfun/images/splash.jpeg" width="40%" alt="Screen2" hspace="15">
-  <img src="https://github.com/ksinnovationhub/teamfun/images/splash.jpeg" width="40%" alt="Screen2" hspace="15">
+  <img src="https://github.com/Alphadude/teamfun/blob/main/images/dashboard.jpeg" width="40%" alt="Screen3" hspace="15">
+  <img src="https://github.com/Alphadude/teamfun/blob/main/images/dashboard.jpeg" width="40%" alt="Screen1" hspace="15">
+  <img src="https://github.com/Alphadude/teamfun/blob/main/images/dashboard.jpeg" width="40%" alt="Screen2" hspace="15">
+  <img src="https://github.com/Alphadude/teamfun/blob/main/images/dashboard.jpeg" alt="Screenshot" width="40%" hspace="15"/>
+  <img src="https://github.com/Alphadude/teamfun/blob/main/images/dashboard.jpeg" width="40%" alt="Screen2" hspace="15">
+  <img src="https://github.com/Alphadude/teamfun/blob/main/images/dashboard.jpeg" width="40%" alt="Screen2" hspace="15">
 </ul>
 
 ![Splash screen] 
