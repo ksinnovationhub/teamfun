@@ -55,25 +55,25 @@ This code contains the landing page of the platform where information on how to 
 
 ### Screenshots Mobile 📸
 <ul>
-  <img src="https://github.com/Alphadude/teamfun/blob/main/images/splash.jpeg" width="40%" alt="Screen3" hspace="15">
-  <img src="https://github.com/Alphadude/teamfun/blob/main/images/dashboard.jpeg" width="40%" alt="Screen1" hspace="15">
-  <img src="https://github.com/Alphadude/teamfun/blob/main/images/vote.jpeg" width="40%" alt="Screen2" hspace="15">
+  <img src="https://github.com/Alphadude/teamfun/blob/main/images/splash.jpeg" width="40%" alt="Screen1" hspace="15">
+  <img src="https://github.com/Alphadude/teamfun/blob/main/images/dashboard.jpeg" width="40%" alt="Screen2" hspace="15">
+  <img src="https://github.com/Alphadude/teamfun/blob/main/images/votepage.jpeg" width="40%" alt="Screen3" hspace="15">
   <img src="https://github.com/Alphadude/teamfun/blob/main/images/vote1.jpeg" alt="Screenshot" width="40%" hspace="15"/>
-  <img src="https://github.com/Alphadude/teamfun/blob/main/images/result.jpeg" width="40%" alt="Screen2" hspace="15">
-  <img src="https://github.com/Alphadude/teamfun/blob/main/images/result1.jpeg" width="40%" alt="Screen2" hspace="15">
+  <img src="https://github.com/Alphadude/teamfun/blob/main/images/result.jpeg" width="40%" alt="Screen4" hspace="15">
+  <img src="https://github.com/Alphadude/teamfun/blob/main/images/result1.jpeg" width="40%" alt="Screen5" hspace="15">
   
 </ul>
 
 ## Screenshots for the website
 
-<img src="https://github.com/Alphadude/teamfun/blob/main/images/landingpage.jpeg" width="40%" alt="Screen2" hspace="15">
+<img src="https://github.com/Alphadude/teamfun/blob/main/images/landingpage.jpeg" width="80%" alt="Screen2" hspace="15">
 
-<img src="https://github.com/Alphadude/teamfun/blob/main/images/result1.jpeg" width="40%" alt="Screen2" hspace="15">
+<img src="https://github.com/Alphadude/teamfun/blob/main/images/result1.jpeg" width="80%" alt="Screen2" hspace="15">
 
+## Screenshots for the website
 
-
-<img src="https://github.com/Alphadude/teamfun/blob/main/resources/homemtop.png" width="40%" alt="Screen2" hspace="15">
-<img src="https://github.com/Alphadude/teamfun/blob/main/resources/homemiddle.png" width="40%" alt="Screen2" hspace="15">
+<img src="https://github.com/Alphadude/teamfun/blob/main/resources/homemtop.png" width="80%" alt="Screen2" hspace="15">
+<img src="https://github.com/Alphadude/teamfun/blob/main/resources/homemiddle.png" width="80%" alt="Screen2" hspace="15">
 
 
 
