@@ -66,7 +66,7 @@ This code contains the landing page of the platform where information on how to 
 
 ## Screenshots for the website
 
-<img src="https://github.com/Alphadude/teamfun/blob/main/images/landingpage.jpeg" width="80%" alt="Screen2" hspace="15">
+<img src="https://github.com/Alphadude/teamfun/blob/main/images/landingpage.png" width="80%" alt="Screen2" hspace="15">
 
 <img src="https://github.com/Alphadude/teamfun/blob/main/images/result1.jpeg" width="80%" alt="Screen2" hspace="15">
 
