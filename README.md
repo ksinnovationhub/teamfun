@@ -25,7 +25,7 @@ This code contains the landing page of the platform where information on how to 
 
 [The Mobile Application Repo](https://github.com/Alphadude/teamfun/tree/main/yourvoiceapp)<br>
 
-[Landing Page](yourvoiceng.netlify.app)
+[Landing Page](https://yourvoiceng.netlify.app)
 
 ## Technologies used
 
