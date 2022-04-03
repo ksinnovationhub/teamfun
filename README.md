@@ -23,8 +23,9 @@ This code contains the landing page of the platform where information on how to 
 
 ## Folders and Files used:
 
-[The Mobile Application Repo] (https://github.com/Alphadude/teamfun/blob/main/assets/adminsignup.png)
-[Landing Page.] (yourvoiceng.netlify.app)
+[The Mobile Application Repo](https://github.com/Alphadude/teamfun/tree/main/yourvoiceapp)<br>
+
+[Landing Page](yourvoiceng.netlify.app)
 
 ## Technologies used
 
