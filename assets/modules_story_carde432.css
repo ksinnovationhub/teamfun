@@ -1,0 +1,115 @@
+@import url(https://unpkg.com/aos@2.3.1/dist/aos.css);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.3/tiny-slider.css);
+.story-card {
+  -webkit-user-select: none;
+          user-select: none;
+  padding: 80px 0; }
+  .story-card article header {
+    border-radius: 20px;
+    background-color: #000;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    max-width: 80%;
+    margin: 0 auto;
+    height: 580px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    position: relative; }
+    .story-card article header div.wistia_embed {
+      position: absolute;
+      margin: 0;
+      top: 50%;
+      transform: translateY(-50%); }
+    .story-card article header button.story-play-button {
+      width: 122px;
+      height: 122px;
+      border-radius: 122px;
+      background: #fff;
+      border: 1px #fff solid;
+      transition: all 0.2s ease-in-out; }
+      .story-card article header button.story-play-button:after {
+        content: " ";
+        background-image: url("data:image/svg+xml,%3Csvg width='27' height='31' viewBox='0 0 27 31' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M25.8862 14.2346C27.2144 15.0132 27.2017 16.9376 25.8633 17.6986L3.23762 30.5632C1.89924 31.3241 0.238962 30.3509 0.249124 28.8113L0.420921 2.78466C0.431083 1.24509 2.10406 0.293864 3.43229 1.07245L25.8862 14.2346Z' fill='%23FF6726'/%3E%3C/svg%3E");
+        width: 27px;
+        height: 31px;
+        display: flex;
+        align-items: center;
+        margin-left: auto;
+        margin-right: auto; }
+      .story-card article header button.story-play-button:focus, .story-card article header button.story-play-button:active {
+        outline: none; }
+      .story-card article header button.story-play-button:hover, .story-card article header button.story-play-button:focus, .story-card article header button.story-play-button:active {
+        transform: scale(1.1); }
+    .story-card article header h5 {
+      color: #fff;
+      font-weight: 600;
+      font-size: 22px;
+      line-height: 30px;
+      text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+      position: absolute;
+      margin: 0;
+      top: 70%;
+      transform: translateY(-70%); }
+  .story-card article blockquote {
+    font-size: 30px;
+    line-height: 40px;
+    font-weight: 600;
+    max-width: 75%;
+    padding: 20px 0 0 80px; }
+    .story-card article blockquote:before, .story-card article blockquote:after {
+      content: '"'; }
+  .story-card article footer {
+    padding-left: 80px; }
+  @media (max-width: 599px) {
+    .story-card {
+      padding: 40px 0; }
+      .story-card article header {
+        height: 180px;
+        border-radius: 10px;
+        position: relative; }
+        .story-card article header h5 {
+          padding-bottom: 0;
+          font-weight: 400;
+          font-size: 16px;
+          line-height: 23px;
+          top: 80%;
+          transform: translateY(-80%); }
+        .story-card article header div.wistia_embed div {
+          text-align: center; }
+        .story-card article header button.story-play-button {
+          width: 56px;
+          height: 56px;
+          border-radius: 56px; }
+          .story-card article header button.story-play-button:after {
+            transform: scale(0.5); }
+      .story-card article blockquote {
+        font-size: 20px;
+        line-height: 23px;
+        max-width: 100%;
+        padding: 45px 0; }
+      .story-card article footer {
+        padding: 0; } }
+  .story-card article header {
+    margin-bottom: 20px; }
+  .story-card article blockquote {
+    letter-spacing: -0.04em; }
+  .story-card article blockquote,
+  .story-card article footer {
+    padding-left: 200px; }
+  @media (max-width: 1199px) {
+    .story-card article blockquote,
+    .story-card article footer {
+      padding-left: 100px; } }
+  @media (max-width: 599px) {
+    .story-card article header,
+    .story-card article blockquote,
+    .story-card article footer {
+      max-width: 100%; }
+    .story-card article blockquote,
+    .story-card article footer {
+      padding-left: 20px; } }
+
+
+/*# sourceMappingURL=modules_story_card.css.map*/

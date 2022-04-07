@@ -1,0 +1,251 @@
+#video-tutorials #hero {
+  padding: 120px 0;
+  margin-bottom: 80px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right -64px bottom -64px; }
+  @media (max-width: 599px) {
+    #video-tutorials #hero {
+      background-size: 150%;
+      background-position: center bottom;
+      padding-bottom: 350px; } }
+  #video-tutorials #hero .container {
+    padding-left: 120px; }
+  #video-tutorials #hero header small {
+    display: block;
+    font-size: 16px;
+    line-height: 100%;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+    margin-bottom: 40px;
+    color: #344563;
+    font-weight: 700;
+    font-style: normal; }
+  #video-tutorials #hero header h1,
+  #video-tutorials #hero header h2 {
+    max-width: 620px;
+    font-size: 65px;
+    line-height: 64px;
+    letter-spacing: -0.01em;
+    font-weight: 900;
+    margin-bottom: 40px; }
+    #video-tutorials #hero header h1 em,
+    #video-tutorials #hero header h2 em {
+      font-style: normal; }
+  #video-tutorials #hero header p {
+    max-width: 395px;
+    font-size: 18px;
+    line-height: 150%;
+    margin-bottom: 40px; }
+  @media (max-width: 599px) {
+    #video-tutorials #hero header {
+      width: 100%; }
+      #video-tutorials #hero header h1,
+      #video-tutorials #hero header h2 {
+        font-size: 43px;
+        line-height: 43px;
+        margin-bottom: 20px; }
+      #video-tutorials #hero header p {
+        font-size: 16px;
+        line-height: 23px; } }
+  #video-tutorials #hero footer a.hero-button {
+    margin-bottom: 16px; }
+  #video-tutorials #hero footer small {
+    display: block;
+    font-size: 16px;
+    color: #344563; }
+  @media (max-width: 599px) {
+    #video-tutorials #hero footer small {
+      font-size: 12px;
+      line-height: 28px; } }
+  @media (max-width: 768px) {
+    #video-tutorials #hero .container {
+      padding: 0 40px; } }
+  @media (max-width: 599px) {
+    #video-tutorials #hero footer a.hero-button {
+      width: 80%; } }
+  #video-tutorials #hero .container {
+    display: flex;
+    justify-content: space-between; }
+    #video-tutorials #hero .container header.intro {
+      width: 33%; }
+    #video-tutorials #hero .container div.hero-video-player {
+      padding: 0;
+      width: 50%; }
+      #video-tutorials #hero .container div.hero-video-player header {
+        height: 320px; }
+        #video-tutorials #hero .container div.hero-video-player header button.story-play-button {
+          width: 68px;
+          height: 68px; }
+        #video-tutorials #hero .container div.hero-video-player header div.wistia_embed {
+          margin-bottom: 120px; }
+  @media (max-width: 768px) {
+    #video-tutorials #hero .container {
+      flex-direction: column; }
+      #video-tutorials #hero .container header.intro,
+      #video-tutorials #hero .container div.hero-video-player {
+        width: 100%; } }
+  #video-tutorials #hero .hero-video-player {
+    -webkit-user-select: none;
+            user-select: none;
+    padding: 80px 0; }
+    #video-tutorials #hero .hero-video-player article header {
+      border-radius: 20px;
+      background-color: #000;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center center;
+      max-width: 80%;
+      margin: 0 auto;
+      height: 580px;
+      display: flex;
+      justify-content: center;
+      align-items: flex-end;
+      position: relative; }
+      #video-tutorials #hero .hero-video-player article header div.wistia_embed {
+        position: absolute;
+        margin: 0;
+        top: 50%;
+        transform: translateY(-50%); }
+      #video-tutorials #hero .hero-video-player article header button.story-play-button {
+        width: 122px;
+        height: 122px;
+        border-radius: 122px;
+        background: #fff;
+        border: 1px #fff solid;
+        transition: all 0.2s ease-in-out; }
+        #video-tutorials #hero .hero-video-player article header button.story-play-button:after {
+          content: ' ';
+          width: 27px;
+          height: 31px;
+          display: flex;
+          align-items: center;
+          margin-left: auto;
+          margin-right: auto; }
+        #video-tutorials #hero .hero-video-player article header button.story-play-button:focus, #video-tutorials #hero .hero-video-player article header button.story-play-button:active {
+          outline: none; }
+        #video-tutorials #hero .hero-video-player article header button.story-play-button:hover, #video-tutorials #hero .hero-video-player article header button.story-play-button:focus, #video-tutorials #hero .hero-video-player article header button.story-play-button:active {
+          transform: scale(1.1); }
+      #video-tutorials #hero .hero-video-player article header h5 {
+        color: #fff;
+        font-weight: 600;
+        font-size: 22px;
+        line-height: 30px;
+        text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        position: absolute;
+        margin: 0;
+        top: 70%;
+        transform: translateY(-70%); }
+    #video-tutorials #hero .hero-video-player article blockquote {
+      font-size: 30px;
+      line-height: 40px;
+      font-weight: 600;
+      max-width: 75%;
+      padding: 20px 0 0 80px; }
+      #video-tutorials #hero .hero-video-player article blockquote:before, #video-tutorials #hero .hero-video-player article blockquote:after {
+        content: '"'; }
+    #video-tutorials #hero .hero-video-player article footer {
+      padding-left: 80px; }
+    @media (max-width: 599px) {
+      #video-tutorials #hero .hero-video-player {
+        padding: 40px 0; }
+        #video-tutorials #hero .hero-video-player article header {
+          height: 180px;
+          border-radius: 10px;
+          position: relative; }
+          #video-tutorials #hero .hero-video-player article header h5 {
+            padding-bottom: 0;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 23px;
+            top: 80%;
+            transform: translateY(-80%); }
+          #video-tutorials #hero .hero-video-player article header div.wistia_embed div {
+            text-align: center; }
+          #video-tutorials #hero .hero-video-player article header button.story-play-button {
+            width: 56px;
+            height: 56px;
+            border-radius: 56px; }
+            #video-tutorials #hero .hero-video-player article header button.story-play-button:after {
+              transform: scale(0.5); }
+        #video-tutorials #hero .hero-video-player article blockquote {
+          font-size: 20px;
+          line-height: 23px;
+          max-width: 100%;
+          padding: 45px 0; }
+        #video-tutorials #hero .hero-video-player article footer {
+          padding: 0; } }
+
+#video-tutorials #videos-filter {
+  margin-bottom: 40px; }
+
+#video-tutorials #videos-list {
+  padding: 80px 0; }
+  #video-tutorials #videos-list .module {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -24px;
+    margin-top: -24px; }
+    #video-tutorials #videos-list .module article {
+      background: white;
+      margin-left: 24px;
+      margin-top: 24px;
+      width: calc(33.33333% - 24px);
+      padding: 40px;
+      border-radius: 10px; }
+      #video-tutorials #videos-list .module article h4 {
+        font-weight: 800;
+        font-size: 26px;
+        line-height: 30px;
+        letter-spacing: -0.005em; }
+      #video-tutorials #videos-list .module article p {
+        font-size: 18px;
+        line-height: 140%; }
+      #video-tutorials #videos-list .module article:nth-child(9n + 1), #video-tutorials #videos-list .module article:nth-child(9n + 6), #video-tutorials #videos-list .module article:nth-child(9n + 8) {
+        background: #fff7f3; }
+      #video-tutorials #videos-list .module article:nth-child(9n + 2), #video-tutorials #videos-list .module article:nth-child(9n + 4), #video-tutorials #videos-list .module article:nth-child(9n + 9) {
+        background: #f6f8ff; }
+        #video-tutorials #videos-list .module article:nth-child(9n + 2) a.read-more-button,
+        #video-tutorials #videos-list .module article:nth-child(9n + 2) a.video-tutorial-button, #video-tutorials #videos-list .module article:nth-child(9n + 4) a.read-more-button,
+        #video-tutorials #videos-list .module article:nth-child(9n + 4) a.video-tutorial-button, #video-tutorials #videos-list .module article:nth-child(9n + 9) a.read-more-button,
+        #video-tutorials #videos-list .module article:nth-child(9n + 9) a.video-tutorial-button {
+          color: #7a66f0;
+          box-shadow: 0px 19px 40px -10px #d1d7fc; }
+          #video-tutorials #videos-list .module article:nth-child(9n + 2) a.read-more-button:after,
+          #video-tutorials #videos-list .module article:nth-child(9n + 2) a.video-tutorial-button:after, #video-tutorials #videos-list .module article:nth-child(9n + 4) a.read-more-button:after,
+          #video-tutorials #videos-list .module article:nth-child(9n + 4) a.video-tutorial-button:after, #video-tutorials #videos-list .module article:nth-child(9n + 9) a.read-more-button:after,
+          #video-tutorials #videos-list .module article:nth-child(9n + 9) a.video-tutorial-button:after {
+            background-image: url("data:image/svg+xml,%3Csvg width='22' height='14' viewBox='0 0 22 14' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cline x1='1.25' y1='7.25' x2='17.75' y2='7.25' stroke='%237A66F0' stroke-width='2.5' stroke-linecap='round'/%3E%3Cpath d='M16 1.5L20 7L16 12.5' stroke='%237A66F0' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A"); }
+      #video-tutorials #videos-list .module article:nth-child(9n + 3), #video-tutorials #videos-list .module article:nth-child(9n + 5), #video-tutorials #videos-list .module article:nth-child(9n + 7) {
+        background: #f3fffe; }
+        #video-tutorials #videos-list .module article:nth-child(9n + 3) a.read-more-button,
+        #video-tutorials #videos-list .module article:nth-child(9n + 3) a.video-tutorial-button, #video-tutorials #videos-list .module article:nth-child(9n + 5) a.read-more-button,
+        #video-tutorials #videos-list .module article:nth-child(9n + 5) a.video-tutorial-button, #video-tutorials #videos-list .module article:nth-child(9n + 7) a.read-more-button,
+        #video-tutorials #videos-list .module article:nth-child(9n + 7) a.video-tutorial-button {
+          color: #2fd9c4;
+          box-shadow: 0px 19px 40px -10px #d0fff6; }
+          #video-tutorials #videos-list .module article:nth-child(9n + 3) a.read-more-button:after,
+          #video-tutorials #videos-list .module article:nth-child(9n + 3) a.video-tutorial-button:after, #video-tutorials #videos-list .module article:nth-child(9n + 5) a.read-more-button:after,
+          #video-tutorials #videos-list .module article:nth-child(9n + 5) a.video-tutorial-button:after, #video-tutorials #videos-list .module article:nth-child(9n + 7) a.read-more-button:after,
+          #video-tutorials #videos-list .module article:nth-child(9n + 7) a.video-tutorial-button:after {
+            background-image: url("data:image/svg+xml,%3Csvg width='22' height='14' viewBox='0 0 22 14' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cline x1='1.25' y1='7.25' x2='17.75' y2='7.25' stroke='%232FD9C4' stroke-width='2.5' stroke-linecap='round'/%3E%3Cpath d='M16 1.5L20 7L16 12.5' stroke='%232FD9C4' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A"); }
+      #video-tutorials #videos-list .module article.mini-quote {
+        margin-bottom: 120px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between; }
+        #video-tutorials #videos-list .module article.mini-quote img {
+          display: block;
+          margin: -100px auto 32px auto; }
+        #video-tutorials #videos-list .module article.mini-quote a {
+          margin-bottom: 10px; }
+  @media (max-width: 768px) {
+    #video-tutorials #videos-list {
+      padding: 40px 0; }
+      #video-tutorials #videos-list .module {
+        flex-direction: column; }
+        #video-tutorials #videos-list .module article {
+          width: auto; } }
+
+
+/*# sourceMappingURL=video_tutorials.css.map*/

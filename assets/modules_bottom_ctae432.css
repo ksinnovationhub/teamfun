@@ -1,0 +1,89 @@
+#bottom-cta {
+  padding: 0; }
+  #bottom-cta .container {
+    padding: 40px 0 0 0;
+    background: #fff7f3;
+    border-radius: 20px; }
+    #bottom-cta .container h3 {
+      font-weight: 800;
+      font-size: 50px;
+      line-height: 59px;
+      margin-bottom: 32px; }
+    #bottom-cta .container .module.text-block-left {
+      padding-bottom: 0; }
+      #bottom-cta .container .module.text-block-left .module-text {
+        padding: 40px; }
+  @media (max-width: 768px) {
+    #bottom-cta .container {
+      width: auto;
+      margin: 0 20px;
+      padding: 20px; }
+      #bottom-cta .container h3 {
+        font-size: 32px;
+        line-height: 40px; }
+      #bottom-cta .container .module.text-block-left {
+        text-align: center;
+        flex-direction: column !important; }
+        #bottom-cta .container .module.text-block-left .module-text {
+          padding: 0; } }
+
+section.text-blocks {
+  padding: 80px 0; }
+  section.text-blocks h3.black-section-title {
+    text-align: center; }
+  section.text-blocks .module {
+    display: flex;
+    padding-bottom: 60px;
+    justify-content: space-around;
+    align-items: center; }
+    section.text-blocks .module .module-text {
+      width: 50%;
+      max-width: 50%;
+      flex: 1;
+      padding: 0 80px; }
+      section.text-blocks .module .module-text h3 {
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 30px; }
+    section.text-blocks .module .module-img {
+      align-items: flex-start;
+      padding: 0;
+      max-width: 50%; }
+    section.text-blocks .module.text-block-center {
+      flex-direction: column;
+      text-align: center;
+      padding: 0; }
+      section.text-blocks .module.text-block-center .module-text {
+        width: auto;
+        max-width: 720px; }
+      section.text-blocks .module.text-block-center .module-img {
+        max-width: 50%;
+        margin: 0 0 40px 0; }
+  section.text-blocks.single h3.black-section-title {
+    text-align: left; }
+  @media (max-width: 599px) {
+    section.text-blocks {
+      padding: 40px 0; }
+      section.text-blocks h3.black-section-title {
+        text-align: left; }
+      section.text-blocks .module {
+        flex-direction: column;
+        padding: 20px 0 0 0;
+        margin-bottom: 20px; }
+        section.text-blocks .module.text-block-left {
+          flex-direction: column-reverse; }
+        section.text-blocks .module .module-text,
+        section.text-blocks .module .module-img {
+          width: 100%;
+          max-width: 100%;
+          padding: 0;
+          margin-bottom: 40px; }
+        section.text-blocks .module .module-text h4 {
+          font-size: 20px;
+          line-height: 23px; }
+        section.text-blocks .module .module-text p {
+          font-size: 16px;
+          line-height: 23px; } }
+
+
+/*# sourceMappingURL=modules_bottom_cta.css.map*/

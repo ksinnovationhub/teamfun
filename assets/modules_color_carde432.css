@@ -1,0 +1,51 @@
+.color-card {
+  padding: 80px 0; }
+  .color-card .container {
+    background: #fff8ff;
+    border-radius: 20px;
+    padding-top: 40px; }
+  .color-card .module {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; }
+    .color-card .module .module-img {
+      flex: 1;
+      max-width: 40%; }
+    .color-card .module .module-text {
+      flex: 1;
+      max-width: 50%;
+      padding-right: 60px; }
+      .color-card .module .module-text p {
+        max-width: 457px; }
+  @media (max-width: 599px) {
+    .color-card {
+      padding: 40px 0; }
+      .color-card .container {
+        width: auto;
+        margin: 10px;
+        padding-top: 80px;
+        border-radius: 10px;
+        overflow: hidden; }
+      .color-card .module {
+        flex-direction: column;
+        flex-direction: column-reverse; }
+        .color-card .module .module-text {
+          max-width: 100%;
+          padding-right: 0; }
+          .color-card .module .module-text h3 {
+            margin-bottom: 20px; }
+          .color-card .module .module-text p {
+            font-size: 16px;
+            line-height: 23px;
+            margin-bottom: 45px; }
+          .color-card .module .module-text .btn-row {
+            text-align: center; }
+        .color-card .module .module-img {
+          display: flex;
+          justify-content: center;
+          margin-top: 40px;
+          max-width: 100%;
+          margin-left: -18%; } }
+
+
+/*# sourceMappingURL=modules_color_card.css.map*/

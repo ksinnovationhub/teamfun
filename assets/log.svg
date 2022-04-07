@@ -1,0 +1,32 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg84394" viewBox="0 0 1024 768" height="768px" width="1024px" version="1.1">
+  <metadata id="metadata84400">
+    <rdf:rdf>
+      <cc:work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
+      </cc:work>
+    </rdf:rdf>
+  </metadata>
+  <defs id="defs84398"></defs>
+  <linearGradient spreadMethod="pad" y2="30%" x2="-10%" y1="120%" x1="30%" id="3d_gradient2-logo-5ea8d50b-e235-4c6c-8b6e-aba66f7916ac">
+    <stop id="stop84375" stop-opacity="1" stop-color="#ffffff" offset="0%"></stop>
+    <stop id="stop84377" stop-opacity="1" stop-color="#000000" offset="100%"></stop>
+  </linearGradient>
+  <linearGradient gradientTransform="rotate(-30)" spreadMethod="pad" y2="30%" x2="-10%" y1="120%" x1="30%" id="3d_gradient3-logo-5ea8d50b-e235-4c6c-8b6e-aba66f7916ac">
+    <stop id="stop84380" stop-opacity="1" stop-color="#ffffff" offset="0%"></stop>
+    <stop id="stop84382" stop-opacity="1" stop-color="#cccccc" offset="50%"></stop>
+    <stop id="stop84384" stop-opacity="1" stop-color="#000000" offset="100%"></stop>
+  </linearGradient>
+  <g id="logo-group">
+    <image xlink:href="" id="container" x="272" y="144" width="480" height="480" transform="translate(0 0)" style="display: none;"></image>
+    <g id="logo-center" transform="translate(0 0)">
+      <image xlink:href="" id="icon_container" x="0" y="0" style="display: none;"></image>
+      <g id="slogan" style="font-style:normal;font-weight:400;font-size:32px;line-height:1;font-family:Orienta;font-variant-ligatures:none;text-align:center;text-anchor:middle" transform="translate(0 0)"></g>
+      <g id="title" style="font-style:normal;font-weight:800;font-size:72px;line-height:1;font-family:'Montserrat ExtraBold Alt1';font-variant-ligatures:none;text-align:center;text-anchor:middle" transform="translate(0 0)">
+        <path id="path84403" style="font-style:normal;font-weight:800;font-size:72px;line-height:1;font-family:'Montserrat ExtraBold Alt1';font-variant-ligatures:none;text-align:center;text-anchor:middle" d="m 492.50094,-18.072 19.296,-32.328 h -13.824 l -11.952,20.016 -11.952,-20.016 h -15.048 l 19.224,32.112 V 0 h 14.256 z" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#498655" stroke="#498655" transform="translate(0 325.68399999999997) translate(415.3327848 16.232000000000006) scale(1.67) translate(-459.02094 50.4)"></path>
+        <path id="path84405" style="font-style:normal;font-weight:800;font-size:72px;line-height:1;font-family:'Montserrat ExtraBold Alt1';font-variant-ligatures:none;text-align:center;text-anchor:middle" d="m 523.03006,-50.4 h -15.408 l 14.328,33.696 7.704,-17.64 z m 27.648,0 -13.968,32.832 -7.56,17.568 h 14.04 l 21.6,-50.4 z" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#94d1a0" stroke="#94d1a0" transform="translate(0 325.68399999999997) translate(513.1966552 16.232000000000006) scale(1.67) translate(-507.62206 50.4)"></path>
+      </g>
+      <image xlink:href="" id="icon" x="0" y="0" style="display: none;"></image>
+    </g>
+  </g>
+</svg>
